@@ -10,7 +10,7 @@ Enable users with data to drive understanding of historical stock performance wi
 This challenge required refactoring of our original stocks analysis code, converting total volume to array rather than single value.
 
 ## Results
-Refactoring was a big success! As intended, we receive the same results for both 2017 and 2018 analyses but were able to reduce our code runtime by 90%:
+Refactoring was a big success! As intended, we receive the same output for both 2017 and 2018 analyses but were able to reduce our code runtime by 90%:
 
 2017 Results (old code)
 
