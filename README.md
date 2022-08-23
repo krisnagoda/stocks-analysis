@@ -18,7 +18,7 @@ Refactoring was a big success! As intended, we receive the same results for both
 
 2017 Results (refactored code)
 
-![All Stocks 2017 (new code).png](https://github.com/krisnagoda/stocks-analysis/blob/9411836ca4b7b3e65e6d2b6f7d7b210c0bf4ff14/All%20Stocks%202017%20(new%20code).png)
+![All Stocks 2017 (new code).png](https://github.com/krisnagoda/stocks-analysis/blob/b4ea21358b83435344eeed702cec049e31f03ad8/All%20Stocks%202017%20(new%20code).png)
 
 2018 Results (old code)
 
