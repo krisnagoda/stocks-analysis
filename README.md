@@ -3,7 +3,7 @@
 ## Overview of Project
 Create performant and user-friendly tool to enable self-service analysis of stock data. 
 
-### Purpose
+## Purpose
 Enable users with data to drive understanding of historical stock performance with the goal of increasing future investment success.
 
 ## Analysis and Challenges
